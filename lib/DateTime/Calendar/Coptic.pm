@@ -8,7 +8,7 @@ use vars qw(
 		$n
 	);
 
-	$VERSION = "0.02";
+	$VERSION = "0.03";
 
 	require DateTime::Calendar::Coptic::Language;
 

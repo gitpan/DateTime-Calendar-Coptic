@@ -17,7 +17,7 @@ BEGIN
 		$n
 	);
 
-	$VERSION = "0.12";
+	$VERSION = "0.13";
 
 	($false,$true) = (0,1);
 
@@ -321,12 +321,21 @@ for updates as they come in.
 
 =head1 CREDITS
 
+=over
+
 =item Calendrical Calculations: L<http://www.calendarists.com/>
+
 =item Bahra Hasab: L<http://www.hmml.org/events/>
+
 =item LibEth: L<http://libeth.sourceforge.net/>
+
 =item Ethiopica: L<http://ethiopica.sourceforge.net/>
+
 =item Saint Gebriel Ethiopian Orthodox Church of Seattle: L<http://www.st-gebriel.org/>
+
 =item Aklile Birhan Wold Kirkos, Metsaheit Tibeb, Neged Publishers, Addis Ababa, 1955 (1948 EC).
+
+=back
 
 =head1 REQUIRES
 
